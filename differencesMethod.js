@@ -16,9 +16,9 @@
 
     //Attaching this method to the Array.prototype allows other array objects to call this method
     Array.prototype.differences = function(array) {    
-    var filteredArray = this.filter(function(i) {
-        return array.indexOf(i) == -1;
-    }); 
+        var filteredArray = this.filter(function(i) {
+            return array.indexOf(i) == -1;
+        }); 
 
     return filteredArray;
 }
