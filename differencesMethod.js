@@ -1,5 +1,5 @@
 /*
-    There will come a time when you need to find values that are different from one array object to another array object.
+    There will come a time when you need to find values that are different from one array object to another.
     This file aims to explain how you can do this. Enjoy!
 */
 
