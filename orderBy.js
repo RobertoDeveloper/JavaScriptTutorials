@@ -1,9 +1,6 @@
 
 /*
-   Sometimes when hacking around with JavaScript, you come across the 
-   need to find values of an array that do not exist in another array. 
-   This tutorial explains how to create a method that does just that.
-   Enjoy!
+   Orders an array least to greatest
 */
 
 var d = ['b', 'd', 'c', 'a'];
