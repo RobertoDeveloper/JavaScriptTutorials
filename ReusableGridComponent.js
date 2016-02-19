@@ -5,6 +5,7 @@
 
 /**
  * Let's build a simple reusable grid component using just JavaScript and Twitter Bootstrap!
+ * Required Files: ReusableGridComponent.js and ReusableGridComponent.html
  *
  * Outcomes:
  * How to use the popular extend method in JavaScript
