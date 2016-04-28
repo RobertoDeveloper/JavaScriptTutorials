@@ -135,4 +135,9 @@
     var gridComponent = new GridComponent(gridOptions);
     var gridComponent2 = new GridComponent(gridOptions2);
 
-})();
+})(); 
+
+
+
+//more comments now
+
