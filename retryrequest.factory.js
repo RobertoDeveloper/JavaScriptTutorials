@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-      .module('hgClientModule')
+      .module('app')
       .factory('RetryRequestFactory', RetryRequestFactory);
 
     RetryRequestFactory.$inject = ['$timeout'];
